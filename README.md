@@ -317,7 +317,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project useful, please consider giving it a star! It helps others discover the project.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-customer-chatbot&type=Date)](https://star-history.com/#yourusername/ai-customer-chatbot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kamaumbugua-dev/customer_support&type=Date)](https://star-history.com/#kamaumbugua_dev/customer_support&Date)
 
 ---
 
